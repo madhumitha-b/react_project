@@ -2,7 +2,7 @@
 In this project we have developed a react app 
 * it get input and print them in cards
 * each card is provided with delete option in it
-*if the word contains any it prints after removing duplicates
+* if the word contains any it prints after removing duplicates
 * This is developed in sandbox
 # IMPLEMENTATION
 ![2023-03-24](https://user-images.githubusercontent.com/87955195/227513800-f267eb80-af65-4a4c-9761-ad49008d3be9.png)
