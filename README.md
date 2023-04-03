@@ -3,6 +3,7 @@ This is a simple React app that takes user input and displays it in cards, with 
 
 ## Technologies Used
 This app was developed using the following technologies:
+
 1)React
 
 2)JavaScript
@@ -37,7 +38,7 @@ If you would like to contribute to this project, please follow these steps:
 3)Submit a pull request from your forked repository to the main repository.
 
 ## Credits
-This app was developed by [Your Name] as part of a [course/project/job/etc.]. Feel free to use and modify the code as needed.
+This app was developed by Madhumitha B as part of react project workshop. Feel free to use and modify the code as needed.
 
 ## License
 This project is licensed under the MIT License.
